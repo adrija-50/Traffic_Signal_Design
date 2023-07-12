@@ -6,3 +6,4 @@ References :
 PTR, 2003.
 3. [Icarus Verilog](http://iverilog.icarus.com/home)
 4. [GTKwave](http://gtkwave.sourceforge.net/)
+5. [HDLbits-Verilog Practice](https://hdlbits.01xz.net/wiki/Main_Page)
