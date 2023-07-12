@@ -1,5 +1,5 @@
 # Traffic_Signal_Design
-VHDL coding of a traffic signal system using icarus verilog
+VHDL coding of a traffic signal system using icarus verilog\
 References :
 1. [NPTEL video lecture series by Prof. Indranil Sengupta, IIT Kharagpur](https://nptel.ac.in/courses/106105165)
 2. Samir Palnitkar, “Verilog HDL: A Guide to Digital Design and Synthesis”, Prentice Hall
